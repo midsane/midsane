@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### GitHub Stats
+- **Commits:** 0
+- **PRs:** 0
+- **Merged PRs:** 0
+
 <!--
 **AdityaRaj150/AdityaRaj150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
