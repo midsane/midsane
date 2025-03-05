@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently learning typescript/docker and working on shiro game.
+i am currently learning docker/webRTC and working on TubeSpace.
 
 
 # 💻 Tech Stack:
@@ -11,11 +11,9 @@ i am currently learning typescript/docker and working on shiro game.
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=midsane&theme=dark&hide_border=true)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=midsane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats:
+![](https://streak-stats.demolab.com?user=midsane&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=midsane&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=midsane&icon=4&color=12)](https://visitcount.itsvg.in)
