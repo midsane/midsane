@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
  <br></br>
-   <p>I am currently learning Docker/WebRTC and working on TubeSpace</p>
+   <p>Exploring Blockchain and Distributed Systems</p>
   <table>
     <tr>
       <td>
