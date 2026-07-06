@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
   </a>
 
-  <p>Exploring Blockchain and Distributed Systems</p>
+  <p>Exploring autonomous agentic systems !</p>
 
 <table border="0">
   <tr>
