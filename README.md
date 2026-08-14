@@ -5,9 +5,7 @@
   <a href="https://x.com/no_more_mid">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
   </a>
-
   <p>Exploring autonomous agentic systems !</p>
-
 <table border="0">
   <tr>
     <td align="center">
@@ -18,6 +16,5 @@
     </td>
   </tr>
 </table>
-
-  <img src="https://streak-stats.demolab.com/?user=midsane&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/midsane/midsane/main/streak-stats.svg" alt="GitHub Streak" />
 </div>
